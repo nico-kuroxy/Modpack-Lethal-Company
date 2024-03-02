@@ -14,4 +14,4 @@ List of mods :
     - [Better walkie-talkie](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) : Allows you to hear active walkies even when you're not holding them.
     - [Lethal things](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) : Adds new scraps, new store items, new map mechanics.
     - [Late game upgrade](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) : Adds new store items, NPCs, missions... designed to add some late game action.
-
+    - [Possessed masks](https://thunderstore.io/c/lethal-company/p/OE_Tweaks/Possessed_Masks/) : Allows the configuration of masks spawn rate, outside of default moons, and give them some nice spooky features.
